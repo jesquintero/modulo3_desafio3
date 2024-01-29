@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.section {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.cuadro {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+}
+
+.q {
+    background-color: purple;
+}
+
+.w {
+    background-color: grey;
+}
+
+.e {
+    background-color: brown;
+}
